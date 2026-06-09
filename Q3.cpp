@@ -1,4 +1,4 @@
-//to find all the possible combinations of a string
+//To find all the possible combinations of a string
 #include <iostream>
 using namespace std;
 int main(){
